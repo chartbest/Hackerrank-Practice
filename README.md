@@ -1,2 +1,2 @@
 # Hackerrank-Practice
-My practice on Hackerrank.
+My practice on Hackerrank
